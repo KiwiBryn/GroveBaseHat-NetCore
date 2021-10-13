@@ -28,7 +28,9 @@
 namespace devMobile.IoT.NetCore.GroveBaseHat
 {
 	using System;
+#if DEBUG
 	using System.Diagnostics;
+#endif
 	using System.Device.I2c;
 
 	public class AnalogPorts : IDisposable
