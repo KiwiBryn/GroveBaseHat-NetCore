@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroveBaseHat", "GroveBaseHat\GroveBaseHat.csproj", "{42643785-B726-4F90-8590-B9DAFA9E1E84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroveBaseHatClient", "GroveBaseHatClient\GroveBaseHatClient.csproj", "{106C81B0-E4C6-4A15-97FA-9BAD6CF1793E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42643785-B726-4F90-8590-B9DAFA9E1E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42643785-B726-4F90-8590-B9DAFA9E1E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42643785-B726-4F90-8590-B9DAFA9E1E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42643785-B726-4F90-8590-B9DAFA9E1E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106C81B0-E4C6-4A15-97FA-9BAD6CF1793E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106C81B0-E4C6-4A15-97FA-9BAD6CF1793E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106C81B0-E4C6-4A15-97FA-9BAD6CF1793E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106C81B0-E4C6-4A15-97FA-9BAD6CF1793E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77D08ABB-0FDF-4BEB-AD2D-4247C0D16880}
+	EndGlobalSection
+EndGlobal
