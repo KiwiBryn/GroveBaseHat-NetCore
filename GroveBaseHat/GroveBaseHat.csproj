@@ -3,6 +3,17 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>devMobile.IoT.NetCore.GroveBaseHat</RootNamespace>
+    <Authors>Bryn Lewis @KiwiBryn</Authors>
+    <Company>devMobile Software</Company>
+    <Product>Grove Base Hat Analog ports library</Product>
+    <Copyright>devMobile Software, Apache License, Version 2.0</Copyright>
+    <PackageProjectUrl>https://blog.devmobile.co.nz</PackageProjectUrl>
+    <Description>Library for access the analog ports on a Grove Base Hat for Raspbery PI(https://www.seeedstudio.com/Grove-Base-Hat-for-Raspberry-Pi.html) and Grove Base Hat for Raspberry PI Zero (https://www.seeedstudio.com/Grove-Base-Hat-for-Raspberry-Pi-Zero.html)</Description>
+    <RepositoryUrl>https://github.com/KiwiBryn/GroveBaseHat-NetCore</RepositoryUrl>
+    <PackageTags>Seeed, Seeedstudio, RaspberryPI, Grove Base Hat, pHat</PackageTags>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
